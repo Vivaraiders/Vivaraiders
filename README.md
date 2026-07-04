@@ -24,8 +24,8 @@ Estudante de Ciência da Computação apaixonado por segurança ofensiva. Comece
 
 ## 📌 Projetos em destaque
 
-- 🔌 **[TCP Client-Server](https://github.com/vivaraiders)** — Comunicação TCP com execução remota de comandos, transferência de arquivos e verificação de integridade via SHA-256. Desenvolvido em 3 dias.
-- 🤖 **Bot de Monitoramento de Cripto** — Bot em Python com MySQL e Telegram API para monitoramento de criptomoedas em tempo real.
+- 🔌 **[TCP Client-Server](https://github.com/Vivaraiders/tcp_client_server)** — Comunicação TCP com execução remota de comandos, transferência de arquivos e verificação de integridade via SHA-256. Desenvolvido em 3 dias.
+- 🤖 **[Bot de Monitoramento de Cripto](https://github.com/vivaraiders/botCripto)** — Bot em Python com MySQL e Telegram API para monitoramento de criptomoedas em tempo real.
 
 ---
 
