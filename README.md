@@ -1,6 +1,6 @@
 # Olá, eu sou o Samuel 👋
 
-Estudante de Ciência da Computação apaixonado por segurança ofensiva. Comecei do zero há 4 meses e desde então venho construindo projetos práticos e estudando segurança de aplicações web.
+Estudante de Ciência da Computação apaixonado por segurança ofensiva. Comecei do zero há 6 meses e desde então venho construindo projetos práticos e estudando segurança de aplicações web.
 
 ---
 
