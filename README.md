@@ -5,7 +5,7 @@ Estudante de Ciência da Computação apaixonado por segurança ofensiva. Comece
 ---
 
 ## 🎯 Foco atual
-
+- Desenvolvimento back-end com Python
 - Segurança Ofensiva / Pentesting
 - Web Hacking (PortSwigger Web Security Academy)
 - CTF
